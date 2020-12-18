@@ -3,6 +3,10 @@ name = "kvo"
 version = "0.1.0"
 authors = ["immortal infidel <immortal.infidel@gmail.com>"]
 edition = "2018"
+license="MIT"
+description="Klinger Volume Oscillator (KVO) Implementation In Rust"
+repository="https://github.com/immortalinfidel/kvo-rs.git"
+homepage="https://github.com/immortalinfidel/kvo-rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
